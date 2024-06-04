@@ -1,0 +1,5 @@
+Date          work
+1/6/24        Design of signup page
+2/6/24        Install the reactjs 
+3/6/24        implementation of signup page 
+4/6/24        Solving errors and implement remaining part
